@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    background-color: cadetblue;
+    margin-right: 500px;
+    margin-left: 500px;
+    height: 300px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    padding: 3px;
+    margin: 3px;
+}
+
+button {
+    margin-top: 5px;
+}
